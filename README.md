@@ -25,4 +25,3 @@ to do that.
 The project is organized as followed:
 
 * `ncep/` folder contains python scripts and bash scripts to process NCEP/FNL data into binary datasets that can be consumed by tensorflow.
-* `wrf/` folder contains python scripts and bash scripts to process WRF output downscaling into binary datasets that can be consumed by tensorflow
